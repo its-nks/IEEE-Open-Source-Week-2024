@@ -80,7 +80,7 @@ reported to the community leaders responsible for enforcement at
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+reporter of any incident.....
 
 ---
 ## 📖Enforcement Guidelines
@@ -91,7 +91,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 ### 1. ✏️Correction
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+unprofessional or unwelcome  the community.
 
 **Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
@@ -99,7 +99,7 @@ behavior was inappropriate. A public apology may be requested.
 
 ### 2. ⚠️Warning
 
-**Community Impact**: A violation through a single incident or series
+**Community Impact**: A violation through  single incident or series
 of actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
